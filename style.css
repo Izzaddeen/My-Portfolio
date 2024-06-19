@@ -88,8 +88,11 @@
     padding-bottom: 2%;
 }
 @media (min-width: 425px) {
-    .hello-span {
-      font-size: 15px;
+    .hello{
+      font-size: 2rem;
+    }
+    .hello span{
+        font-size: 3.5rem;
     }
   }
 .hello {

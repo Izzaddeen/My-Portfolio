@@ -87,6 +87,11 @@
 .hello-span {
     padding-bottom: 2%;
 }
+@media (min-width: 425px) {
+    .hello-span {
+      font-size: 15px;
+    }
+  }
 .hello {
     font-size: 2.5rem;
     padding-bottom: 2%;

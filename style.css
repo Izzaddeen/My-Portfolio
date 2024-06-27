@@ -142,11 +142,11 @@
     padding-bottom: 3%;
 }
 .about-h2{
-    text-align: justify;
+    text-align: center;
     font-weight: bold;
 }
 .about-p{
-    text-align: left;
+    text-align: justify;
     padding: 2% 20% 0 20%;
     font-size: 1.2rem;
     font-family: "Lora", serif;
